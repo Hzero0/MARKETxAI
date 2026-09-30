@@ -1,6 +1,5 @@
 ---
 title: AI Startup Marketing Assistant - MARKETxAI
-emoji: 🚀
 colorFrom: indigo
 colorTo: purple
 sdk: gradio
